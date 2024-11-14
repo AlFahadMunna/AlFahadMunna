@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Al Fahad</h1>
 <h3 align="center">Passionate freelance full-stack web developer transforming ideas into engaging digital experiences. Dedicated to creating innovative solutions that empower creativity. Let's collaborate to bring your ideas to life!</h3>
 
-- 👨‍💻 All of my projects are available at [https://resume-ten-umber.vercel.app/](https://resume-ten-umber.vercel.app/)
+- Check out my portfolio at [Md Al Fahad](https://resume-ten-umber.vercel.app/)
 
 - 📫 How to reach me **afmunna.afm.afm@gmail.com**
 
